@@ -1,0 +1,22 @@
+#main {
+    position: absolute;
+    margin: 7rem 1em 0 15%;
+    top: 0;
+}
+
+#content {
+    background-color: #fff;
+    padding: 1em;
+    position: relative;
+    max-width: 28em;
+    overflow: auto;
+}
+
+#links {
+    overflow: hidden;
+    margin-bottom: 4em;
+}
+
+h1 {
+    padding-bottom: 1em;
+}
